@@ -89,6 +89,7 @@ public class XMLUtils {
 
 	/**
 	 * This method validate XML by input XML as String and XSD path to File.
+	 * You'll get full list of exceptions, but if one fatal error occurs, the parsing stops
 	 * 
 	 * @param xml input XML as String
 	 * @param xsdPath input XSD File Path
@@ -110,6 +111,7 @@ public class XMLUtils {
 	
 	/**
 	 * This method validate XML by input XML as String and XSD File.
+	 * You'll get full list of exceptions, but if one fatal error occurs, the parsing stops
 	 * 
 	 * @param xml input XML as String
 	 * @param xsd input XSD File
@@ -131,6 +133,7 @@ public class XMLUtils {
 
 	/**
 	 * This method validate XML by XML File and XSD File.
+	 * You'll get full list of exceptions, but if one fatal error occurs, the parsing stops
 	 * 
 	 * @param xml input XML File
 	 * @param xsd input XSD File
