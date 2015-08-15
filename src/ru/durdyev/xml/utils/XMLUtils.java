@@ -1,7 +1,7 @@
 /**
  * Developed by Ilya Durdyev
  * Website - http://durdyev.ru
- * GirHub - https://github.com/durdyev/
+ * GitHub - https://github.com/durdyev/
  * Skype - banjifun (with photo)
  * Email - i@durdyev.ru
  */
